@@ -1,2 +1,1 @@
-# More functions and tested loops
-
+Learning Functions and Loops in C
